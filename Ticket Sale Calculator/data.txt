@@ -1,0 +1,5 @@
+categories   ticketPrice    numberOfTicketsSold
+box             250                 750
+sideline        100                 2800
+premium         50                  35750
+general         25                  1875
