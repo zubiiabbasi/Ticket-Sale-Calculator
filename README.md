@@ -1,10 +1,15 @@
 # Ticket-Sale-Calculator
 The manager of a football stadium wants you to write a program that calculates the total ticket sales after each game. There are four categories of tickets – box, sideline, premium and general admission. After each game data is stored in a file in the following format.
+
 Data.txt
 categories   ticketPrice    numberOfTicketsSold
+
 box            250                   750
+
 sideline       100                   2800
+
 premium        50                   35750
+
 general        25                    1875
 
 
